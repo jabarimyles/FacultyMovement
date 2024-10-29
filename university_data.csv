@@ -1,0 +1,84 @@
+University Name,B-FASP,MVR,MVS,MVS2,USNEWS,D-C Cluster,B-FASP Clustering
+Carnegie Mellon University,1,4,4,4,99,1,1
+University of California Berkeley,2,1,1,2,1,1,1
+,3,3,3,3,6,1,1
+Stanford University,3,2,2,1,4,1,1
+Cornell University,5,7,7,7,7,1,1
+Princeton University,5,5,5,5,99,1,1
+Columbia University,7,8,8,8,11,1,1
+University of Michigan Ann Arbor,8,6,6,6,2,2,1
+Northwestern University,9,11,11,11,4,1,1
+Georgia Institute of Technology,10,4,10,10,1,2,1
+Pennsylvania State University,10,15,16,16,12,2,1
+Purdue University West Lafayette,10,9,9,9,9,2,1
+,10,14,14,12,15,2,1
+University of Texas Austin,14,16,18,19,19,1,2
+Lehigh University,14,26,23,27,18,2,2
+University of Minnesota Twin Cities,16,20,20,20,32,2,2
+University of Florida,17,13,13,15,19,2,2
+Ohio State University,18,21,21,18,17,2,2
+University of Iowa,19,22,22,22,39,3,2
+University of Pittsburgh,20,24,24,23,23,2,2
+University of Wisconsin Madison,21,12,12,13,7,2,2
+Virginia Tech,22,25,25,24,9,2,2
+North Carolina State University,22,32,33,26,12,2,2
+University of Southern California,24,19,19,17,12,1,2
+University of Pennsylvania,25,18,15,14,28,1,2
+Rutgers University,26,30,28,30,21,2,2
+University of Arizona,27,27,27,25,28,2,2
+Rensselaer Polytechnic Institute,28,37,41,39,21,2,2
+University of Arkansas Fayetteville,28,41,40,36,39,2,2
+University of Illinois Chicago,30,33,36,42,46,3,2
+University of Missouri Columbia,31,23,26,29,58,2,2
+,32,17,17,21,99,2,2
+Boston University,33,28,30,35,39,2,2
+,34,42,35,31,99,1,2
+Texas A&M University,35,34,31,32,15,2,2
+University of South Florida,35,36,38,37,46,3,2
+University of Virginia,37,35,37,33,28,2,2
+University of Texas Dallas,38,29,46,60,58,3,2
+Arizona State University,39,49,48,47,23,2,2
+,39,31,29,28,28,2,2
+University of Washington,41,40,42,40,26,2,2
+Iowa State University,42,47,45,43,26,2,2
+Clemson University,43,58,58,49,32,3,2
+,44,46,39,34,36,2,2
+Oklahoma State University,45,38,34,38,39,3,2
+University of Connecticut,46,54,59,44,99,2,2
+Northeastern University,47,82,82,53,36,2,2
+Case Western University,48,53,32,64,38,2,2
+George Washington University,49,51,44,45,53,2,3
+George Mason University,50,60,51,56,32,2,3
+Stevens Institute of Technology,51,74,61,55,32,2,3
+Washington University St. Louis,52,43,66,67,39,1,3
+Kansas State University,53,39,50,41,46,3,3
+Texas Tech University,54,48,47,46,53,3,3
+Oregon State University,55,72,77,76,46,3,3
+,56,44,43,51,58,3,3
+University of Arkansas Little Rock,57,67,82,81,46,3,3
+University of Alabama Huntsville,58,45,52,58,99,3,3
+Auburn University,59,52,49,52,32,3,3
+University of Louisville,60,50,57,57,66,3,3
+University of Houston,61,55,62,61,53,3,3
+Air Force Academy,62,77,71,63,46,3,3
+Naval Postgraduate School,63,75,83,50,23,1,3
+Wayne State University,64,61,54,54,53,3,3
+University of Oklahoma,65,56,53,48,46,3,3
+University of Central Florida,66,57,55,59,39,3,3
+Worcester Polytechnic Institute,67,64,74,73,53,2,3
+University of Tennessee Knoxville,68,69,56,71,58,3,3
+,69,81,80,65,58,3,3
+University of Miami,70,68,75,80,66,3,3
+Old Dominion University,71,76,67,77,99,3,3
+,72,73,65,75,58,3,3
+West Virginia University,73,70,63,69,66,3,3
+University of Texas Arlington,74,66,60,70,58,3,3
+University of Wisconsin Milwaukee,75,65,76,76,58,3,3
+Wichita State University,76,78,69,68,66,3,3
+Ohio University,77,83,68,78,66,3,3
+Florida State University,78,79,64,74,66,3,3
+,79,71,78,72,66,3,3
+Florida Institute of Technology,80,62,70,83,99,3,3
+Montana State University,81,59,72,82,99,3,3
+New Jersey Institute of Technology,82,80,79,62,99,2,3
+New Mexico State University,83,63,73,79,99,3,3
